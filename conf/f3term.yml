@@ -1,0 +1,21 @@
+attempts: 4
+deltaX: 2
+deltaY: 1
+hackHeader: hackScreen.txt
+isHacked: false
+isLocked: false
+isPowerOn: true
+lockHeader: lockScreen.txt
+lockTimeOut: 30
+mainHeader: readScreen.txt
+menuHeader: menuScreen.txt
+startHeader: startScreen.txt
+onFailure:
+  type: lock
+textMenu:
+  Водки лётчикам не давать!:
+    name: f3Doc.txt
+    type: text
+unPowerHeader: powerScreen.txt
+wordLength: 8
+wordsPrinted: 16
